@@ -4,18 +4,19 @@ Elementos HTML <b> e <strong>
 
 O elemento <b> define texto em negrito, sem qualquer importância extra
 
-O elemento <strong>define texto de grande importância. O conteúdo interno normalmente é exibido em negrito
+O elemento <strong> define texto de grande importância. O conteúdo interno normalmente é exibido em negrito
 
 Elementos <i> e <em>
 
 O elemento HTML <i> define uma parte do texto com uma voz ou humor alternativo. O conteúdo interno normalmente é exibido em itálico.
 
-Dica: A <i> tag costuma ser usada para indicar um termo técnico, uma frase de outro idioma, um pensamento
+  Dica: A <i> tag costuma ser usada para indicar um termo técnico, uma frase de outro idioma, um pensamento
 
- elemento <em> define o texto enfatizado. O conteúdo interno normalmente é exibido em itálico.
+O elemento <em> define o texto enfatizado. O conteúdo interno normalmente é exibido em itálico.
 
-Dica: um leitor de tela pronunciará as palavras com <em> ênfase, usando ênfase verbal
+  Dica: um leitor de tela pronunciará as palavras com <em> ênfase, usando ênfase verbal
 
+Outras formatações
 
 <mark> Texto marcado ou destacado
 
