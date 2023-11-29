@@ -1,0 +1,17 @@
+O que é CSS?
+Cascading Style Sheets 
+significa Folhas de Estilo em Cascata.
+
+CSS é usado para formatar o layout de uma página da web.
+
+Com CSS, você pode controlar a cor, a fonte, o tamanho do texto, o espaçamento entre os elementos, como os elementos são posicionados e dispostos, quais imagens ou cores de fundo devem ser usadas, diferentes exibições para diferentes dispositivos e tamanhos de tela, e muito mais
+
+CSS pode ser adicionado a documentos HTML de 3 maneiras:
+
+Inline - usando o styleatributo dentro dos elementos HTML
+
+Interno - usando um elemento <style> na seção <head>
+
+Externo - usando um elemento <link> na seção <head> para vincular a um arquivo CSS externo
+
+A maneira mais comum de adicionar CSS é manter os estilos em arquivos CSS externos. esse veremos apenas nos estudos de CSS...

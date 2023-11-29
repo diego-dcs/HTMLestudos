@@ -6,3 +6,5 @@ Repositório de estudo HTML5
 #### *02* Parágrafo
 #### *03* Quebras de Linhas(br, hr, pre)
 #### *04* Formatação(strong, b, em, i...)
+#### *05* Citações (q, blockquote, abbr, cite, bdo)
+#### *06* #
