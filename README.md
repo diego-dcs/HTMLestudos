@@ -9,4 +9,5 @@ Repositório de estudo HTML5
 #### 05 Citações (q, blockquote, abbr, cite, bdo)
 #### 06 Estilo CSS
 #### 07 Link / Ancora
-#### 08 marcadores
+#### 08 Marcadores
+#### 09 imagem
