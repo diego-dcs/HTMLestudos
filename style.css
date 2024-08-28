@@ -1,0 +1,66 @@
+@charset "UTF-8";
+
+:root {
+    --papel: lightyellow;
+    --botao: darkblue;
+    --fontBotao: white;
+}
+
+* { margin: 0; padding: 0 }
+body  {
+    font-size: 1em;
+    background-color: black;
+}
+header {
+    background-color: darkblue;
+    color: #fff;
+    text-align: center;
+}
+main  {
+    background-color: lightblue;
+    padding: 6px 2%;
+}
+main > h2 {
+    text-align: center;
+    padding: 12px 8px;
+}
+main > p   {
+    background-color: var(--papel);
+    color: black;
+    margin: 6px;
+    padding:8px;
+    box-shadow: 1px 1px 3px 1px #0008;
+}
+.nota {
+    background-color: #dda;
+    "font-size: 0.8em;
+}
+.tela {
+    display: inline-block;
+    background-color: #363;
+    color: yellowgreen;
+    font-family: monospace;
+}
+ul  {
+    background-color: var(--papel);
+    color: black;
+    padding: 8px 8px 8px 2em;
+    margin: 6px;
+    box-shadow: 1px 1px 3px 1px #0008;
+}
+li  {
+    padding: 4px 0;
+}
+nav {
+    text-align: center;
+}
+button  {
+  background-color: var(--botao);
+  color: var(--fontBotao);
+  padding: 6px 10px;
+  margin: 16px 5%;
+}
+button a {
+  text-decoration: none;
+  color: var(--fontBotao);
+}
