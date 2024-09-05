@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>5. Citações</title>
+    <link rel="stylesheet" href="../style.css">
+    <style>
+      blockquote  {
+        background-color: white;
+        width: 70%;
+        margin: auto;
+        padding: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>HTML5</h1>
+    </header>
+    <main>
+      <h2>Exemplo de citações</h2>
+      <p>
+        Neste capítulo, examinaremos os elementos de citação 
+      </p>
+      <p>
+        A tag &lt;q&gt; define uma citação curta.
+      </p>
+      <p class="tela">
+        Esse é uma &lt;q&gt;citação curta&lt;/q&gt;
+      </p>
+      <p>
+        Esse é uma <q>citação curta</q>
+      </p>
+      <p class="nota">
+        Os navegadores normalmente inserem aspas ao redor da citação
+      </p>
+      
+      <h3>
+        Abreviatura ou Acrônimo
+      </h3>
+      <p>
+        A tag HTML &lt;abbr tittle=""&gt; define uma abreviatura ou um acrônimo, como "HTML", "CSS", "Mr.", "Dr.".
+      </p>
+      <p>
+        A marcação de abreviaturas pode fornecer informações úteis aos navegadores, sistemas de tradução e motores de busca.
+      </p>
+      <p class="tela">
+        &lt;abbr title=<q>Hyper Text Markup Language</q>&gt;<br>HTML<br>&lt;/abbr&gt;
+      </p>
+      <p>
+        <abbr title="Hyper Text Markup Language">HTML</abbr>
+      </p>
+      <p class="nota">
+        Dica: Use o atributo global title para mostrar a descrição da abreviatura/acrônimo ao passar o mouse sobre o elemento
+      </p>
+      <h3>Citação em outra fonte</h3>
+      <p>
+        O elemento &lt;blockquote cite=""&gt; define uma seção citada de outra fonte
+      </p>
+      <p class="tela">
+        &lt;blockquote cite="http://fonte.com"&gt;<br>Citação de fonte externa<br>&lt;/blockquote&gt;
+      </p>
+      <blockquote cite="http://fonte.com">
+        Citação de fonte externa
+      </blockquote>
+      
+      <p class="nota">
+        Os navegadores geralmente recuam elemento &lt;blockquote&gt;
+      </p>
+    </main>
+    
+    <nav>
+      <button><a href="../04-formatação/04-formatação.html">< Voltar</a></button>
+      <button><a href="../07-link/07-link.html">Avancar ></a></button>
+    </nav>
+  </body>
+</html>

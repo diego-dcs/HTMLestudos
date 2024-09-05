@@ -1,21 +1,12 @@
-Neste capítulo, examinaremos os elementos de cotação 
 
-<blockquote cite="http://link.com"> 
-O elemento <blockquote> define uma seção citada de outra fonte.
 
-Os navegadores geralmente recuam elementos <blockquote>
 
-<q> 
-A tag <q> define uma citação curta.
 
-Os navegadores normalmente inserem aspas ao redor da citação
 
-<abbr tittle=""> 
-A tag HTML <abbr> define uma abreviatura ou um acrônimo, como "HTML", "CSS", "Mr.", "Dr.".
 
-A marcação de abreviaturas pode fornecer informações úteis aos navegadores, sistemas de tradução e motores de busca.
 
-Dica: Use o atributo global title para mostrar a descrição da abreviatura/acrônimo ao passar o mouse sobre o elemento
+
+
 
 <address> 
 A tag <address> define as informações de contato do autor/proprietário de um documento ou artigo.
